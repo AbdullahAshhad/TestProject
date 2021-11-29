@@ -9,8 +9,8 @@ Feature: Sign In
     And The Sign In button is clicked
     Then User account loads
     Examples:
-      | email              | password |
-      | x@y.com            |          |
-      | X.com              | password |
-      | x.com              |          |
-      | example2@email.com | password |
+      | email            | password |
+      | abdullah@y.com   |          |
+      | alo.com          | password |
+      | good.com         |          |
+      | fazool@gmail.com | password |

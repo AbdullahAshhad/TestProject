@@ -10,7 +10,7 @@ Feature: Customer service
     Then click on the send button
     Examples:
       |heading  |email|message|
-      | Customer service | example2@email.com | order has not arrived        |
-      | -- Choose --     | example2@email.com | order has not arrived        |
+      | Customer service | chillout@email.com | order has not arrived        |
+      | -- Choose --     | chillout@email.com | order has not arrived        |
       | Webmaster        | empty              | I need help placing an order |
-      | Webmaster        | example2@email.com | empty                        |
+      | Webmaster        | chillout@email.com | empty                        |

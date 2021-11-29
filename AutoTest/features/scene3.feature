@@ -10,5 +10,5 @@ Feature: Search query
     Examples:
       |item  |
       |shirt |
-      |Python|
+      |Fazool|
       |empty |

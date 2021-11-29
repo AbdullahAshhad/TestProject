@@ -25,8 +25,8 @@ Feature: registration
     Then The user account page loads
     Examples:
       | email                 | firstname | lastname | Password        | Date  | Month | Year  | Address           | City     | State      | ZipCode | phoneNumber |
-      | example12@email.com   | Sasuke    | Uchiha   | password        | 15    | 5     | 1999  | Example street 19 | Debrecen | California | 12345   | 1234567     |
-      | example_e12@email.com | Bob       | Example  | anotherpassword | 23    | 6     | 2000  | Test plaza  9     | Budapest | Texas      | 98765   | 9876654     |
-      | xx@y.com              | a         | empty    | thirdpassword   | 14    | 7     | 2020  | Example street 99 | Budapest | Texas      | 33333   | 1922574     |
-      | xxx@y.com             | a         | b        | empty           | 14    | 7     | 2020  | Example street 99 | Budapest | Texas      | 44444   | 1922574     |
-      | x@yyy.com             | a         | b        | thirdpassword   | empty | empty | empty | empty             | empty    | Texas      | empty   | empty       |
+      | kiamaslaha@email.com  | Abdullah  | Ashhad   | password        | 15    | 5     | 1999  | Newyork hells kit | NY       | NewYork    | 12345   | 1234567     |
+      | gotdragon@email.com   | Mitchel   | Ali      | anotherpassword | 23    | 6     | 2000  | Test plaza  9     | Budapest | Texas      | 98765   | 9876654     |
+      | bhsda@y.com           | a         | empty    | thirdpassword   | 14    | 7     | 2020  | Example street 99 | Budapest | Texas      | 33333   | 1922574     |
+      | weher@y.com           | a         | b        | empty           | 14    | 7     | 2020  | Example street 99 | Budapest | Texas      | 44444   | 1922574     |
+      | wewrewr@yyy.com       | a         | b        | thirdpassword   | empty | empty | empty | empty             | empty    | Texas      | empty   | empty       |
