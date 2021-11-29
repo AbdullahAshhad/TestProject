@@ -1,0 +1,1 @@
+This project defines different scenarios for the different test cases performed on the automationpractice.com.
